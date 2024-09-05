@@ -2,7 +2,7 @@ import { Suspense } from "react";
 import Spinner from "@/app/_components/Spinner";
 import CabinList from "../_components/CabinList";
 import Filter from "../_components/Filter";
-import ReservationReminder from "@/starter/components/ReservationReminder";
+import ReservationReminder from "@/app/_components/ReservationReminder";
 export const metadata = {
   title:"Cabins"
 }
